@@ -1,0 +1,26 @@
+{
+  "name": "igniting_our_app",
+  "version": "1.0.0",
+  "description": "React Learn By Akshay Saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https//github.com/mo-arman/Igniting_Our_App.git)"
+  },
+  "keywords": [
+    "React",
+    "ArmanReact",
+    "ReactJs"
+  ],
+  "author": "Muhammad Arman",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "inception_e_1",
+  "version": "1.0.0",
+  "description": "This is Namaste React By Akshay Saini",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mo-arman/Inception_E_1.git)"
+  },
+  "keywords": [
+    "react",
+    "Arman",
+    "Namaste",
+    "React"
+  ],
+  "author": "Arman",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 10 Chrome versions"
+  ]
+}
