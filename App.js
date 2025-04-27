@@ -94,6 +94,19 @@ const HeadingComponent = () => {
   )
 }
 
+const LearnIELTS = () => {
+  return (
+    <div>
+      <h1>IELTS</h1>
+      <h2>IELTS</h2>
+      <h3>IELTS</h3>
+      <h4>IELTS</h4>
+      <h5>IELTS</h5>
+      <h6>IELTS</h6>
+    </div>
+  );
+}
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<HeadingComponent/>);
 
